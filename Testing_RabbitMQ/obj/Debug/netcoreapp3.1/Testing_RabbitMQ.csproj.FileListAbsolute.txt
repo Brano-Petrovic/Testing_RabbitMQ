@@ -1,0 +1,17 @@
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.exe
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.csprojAssemblyReference.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.AssemblyInfoInputs.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.AssemblyInfo.cs
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.csproj.CopyComplete
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.deps.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.runtimeconfig.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.runtimeconfig.dev.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\bin\Debug\netcoreapp3.1\Testing_RabbitMQ.pdb
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.pdb
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Testing_RabbitMQ\obj\Debug\netcoreapp3.1\Testing_RabbitMQ.genruntimeconfig.cache

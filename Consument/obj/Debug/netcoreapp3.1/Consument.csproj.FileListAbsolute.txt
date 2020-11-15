@@ -1,0 +1,17 @@
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.exe
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.csprojAssemblyReference.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.AssemblyInfoInputs.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.AssemblyInfo.cs
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.csproj.CopyComplete
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.deps.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.runtimeconfig.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.runtimeconfig.dev.json
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\bin\Debug\netcoreapp3.1\Consument.pdb
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.csproj.CoreCompileInputs.cache
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.dll
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.pdb
+D:\Programovanie\C# projekty\Testing_RabbitMQ\Consument\obj\Debug\netcoreapp3.1\Consument.genruntimeconfig.cache
